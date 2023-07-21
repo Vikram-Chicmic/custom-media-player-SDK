@@ -1,1 +1,1 @@
-# media-player_SDK
+# custom-media-player-SDK
